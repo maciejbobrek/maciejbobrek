@@ -8,7 +8,7 @@
 * I'm currently studying IT in Cracow and learning how to use GitHub :)
 * More content will appear here in the future... Stay tuned!
 
-###  [My webstie](https://maciejbobrek.github.io/) 
+###  [My website](https://maciejbobrek.github.io/) 
 
 
 
