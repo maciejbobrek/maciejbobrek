@@ -1,5 +1,7 @@
 # Hi there 👋
 
+###  [My website](https://maciejbobrek.github.io/) 
+
 ### My socials
 * My instagram [profile](https://www.instagram.com/m_bobri/)
 * My Facebook profile [https://www.facebook.com/maciej.bobrek/](https://www.facebook.com/maciej.bobrek/)
@@ -8,7 +10,6 @@
 * I'm currently studying IT in Cracow and learning how to use GitHub :)
 * More content will appear here in the future... Stay tuned!
 
-###  [My website](https://maciejbobrek.github.io/) 
 
 
 
