@@ -3,7 +3,7 @@
 ### My socials
 * My instagram [profile](https://www.instagram.com/m_bobri/)
 * My Facebook profile [https://www.facebook.com/maciej.bobrek/](https://www.facebook.com/maciej.bobrek/)
-###My [My webstie](https://maciejbobrek.github.io/) 
+### My [My webstie](https://maciejbobrek.github.io/) 
 
 ### What's up here?
 * I'm currently studying IT in Cracow and learning how to use GitHub :)
