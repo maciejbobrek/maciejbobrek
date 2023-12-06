@@ -8,6 +8,7 @@
 ### Finished Projects
 * [Brainfuck to C Parser](https://github.com/KrzysztofGG/Compilers)
 * [Binance Trading Bot](https://github.com/maciejbobrek/BinanceTradingBot)
+* [Binance Trading Bot](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Cieple-Dranie)
 ### My Forks
 * [Converting Math Formulas to Latex](https://github.com/maciejbobrek/PositionalEncoding2D)
 ### My socials
