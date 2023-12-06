@@ -1,6 +1,13 @@
 # Hi there 👋
 
 ###  [My website](https://maciejbobrek.github.io/) 
+### Ongoing Projects 
+* [Battle Simulator](https://github.com/KrzysztofGG/DiscreteSystemsBattle)
+* [Ethereum Smart Contract Analyzer](https://github.com/maciejbobrek/Smart-Contract-Analyzer)
+
+### Finished Projects
+* [Brainfuck to C Parser](https://github.com/KrzysztofGG/Compilers)
+* [Binance Trading Bot](https://github.com/maciejbobrek/BinanceTradingBot)
 ### My Forks
 * [Converting Math Formulas to Latex](https://github.com/maciejbobrek/PositionalEncoding2D)
 ### My socials
