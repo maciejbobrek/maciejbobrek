@@ -2,10 +2,12 @@
 
 ###  [My website](https://maciejbobrek.github.io/) 
 ### Ongoing Projects 
-* [Battle Simulator](https://github.com/KrzysztofGG/DiscreteSystemsBattle)
-* [Ethereum Smart Contract Analyzer](https://github.com/maciejbobrek/Smart-Contract-Analyzer)
+* [Lift System](https://github.com/maciejbobrek/ElevatorSystem)
+
 
 ### Finished Projects
+* [Battle Simulator](https://github.com/KrzysztofGG/DiscreteSystemsBattle)
+* [Ethereum Smart Contract Analyzer](https://github.com/maciejbobrek/Smart-Contract-Analyzer)
 * [Brainfuck to C Parser](https://github.com/KrzysztofGG/Compilers)
 * [Binance Trading Bot](https://github.com/maciejbobrek/BinanceTradingBot)
 * [AGH recruitment points calculator](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Cieple-Dranie)
