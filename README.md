@@ -1,8 +1,8 @@
 # Hi there 👋
 
-###  [My website](https://maciejbobrek.github.io/) 
+###  [](https://maciejbobrek.github.io/) 
 ### Ongoing Projects 
-* [Lift System](https://github.com/maciejbobrek/ElevatorSystem)
+* [Lift System](https://github.com/maciejbobrek/ElevatorSystem) [Deployed Website](https://github.com/maciejbobrek/ElevatorSystem)
 
 
 ### Finished Projects
