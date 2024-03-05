@@ -2,10 +2,10 @@
 
 ###  [](https://maciejbobrek.github.io/) 
 ### Ongoing Projects 
-* [Lift System](https://github.com/maciejbobrek/ElevatorSystem) [Deployed Website](https://github.com/maciejbobrek/ElevatorSystem)
 
 
 ### Finished Projects
+* [Lift System](https://github.com/maciejbobrek/ElevatorSystem) [Deployed Website](https://github.com/maciejbobrek/ElevatorSystem)
 * [Battle Simulator](https://github.com/KrzysztofGG/DiscreteSystemsBattle)
 * [Ethereum Smart Contract Analyzer](https://github.com/maciejbobrek/Smart-Contract-Analyzer)
 * [Brainfuck to C Parser](https://github.com/KrzysztofGG/Compilers)
