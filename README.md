@@ -10,7 +10,6 @@
 
 ### Finished Projects
 * [Lift System](https://github.com/maciejbobrek/ElevatorSystem) [Deployed Website](https://github.com/maciejbobrek/ElevatorSystem)
-@@ -11,16 +13,11 @@
 * [Brainfuck to C Parser](https://github.com/KrzysztofGG/Compilers)
 * [Binance Trading Bot](https://github.com/maciejbobrek/BinanceTradingBot)
 * [AGH recruitment points calculator](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Cieple-Dranie)
